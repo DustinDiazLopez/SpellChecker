@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="controlsfx-8.40.15">
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/controlsfx-8.40.15.jar" />
+  </library>
+  <library name="fontbox-2.0.16">
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/PDFBox/fontbox-2.0.16.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/PDFBox/pdfbox-2.0.16.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/PDFBox/pdfbox-app-2.0.16.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/PDFBox/pdfbox-tools-2.0.16.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/PDFBox/preflight-2.0.16.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/PDFBox/preflight-app-2.0.16.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/PDFBox/xmpbox-2.0.16.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/src.zip" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx-swt.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx.web.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx.base.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx.media.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx.swing.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx.controls.jar" />
+    <archive path="C:/Users/dudia/Desktop/Projects/HelloFX/src/libs/javafx-sdk-12.0.2/lib/javafx.graphics.jar" />
+  </library>
+</eclipse-userlibraries>
+

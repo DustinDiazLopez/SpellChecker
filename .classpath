@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/controlsfx-8.40.15"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/fontbox-2.0.16"/>
+	<classpathentry kind="output" path="out/production/HelloFX"/>
+</classpath>

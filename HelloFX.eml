@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/HelloFX"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="lib" value="project"/>
+		<level name="controlsfx-8.40.15" value="project"/>
+		<level name="fontbox-2.0.16" value="project"/>
+	</levels>
+</component>
