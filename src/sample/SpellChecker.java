@@ -22,7 +22,7 @@ public class SpellChecker {
             System.out.println("Dictionary has been initialized.");
         }
 
-        String input = "Saldos mi nobre es Dustin Díaz hoy día soi pendejo, 787 787-234-1234";
+        String input = "Saldos mi nobre es Dustin Díaz soi una perzona, 787 787-234-1234";
         HashSet<Word> ey = spellCheck(input, dictionary);
         if (ey.isEmpty()) {
             System.out.println("No errors.");
